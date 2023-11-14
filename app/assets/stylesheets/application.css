@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+*{
+  list-style: none;
+
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+button{
+  background: rgb(104, 104, 233);
+}
+li{
+  margin: 50px;
+}
